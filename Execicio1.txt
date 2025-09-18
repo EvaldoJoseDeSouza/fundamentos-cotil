@@ -1,0 +1,7 @@
+## Sobre Mim
+
+Olá! Meu nome é **Evaldo Souza** e sou uma pessoa apaixonada por tecnologia e desenvolvimento de software. 
+Estou sempre em busca de aprender coisas novas e crescer na área de programação.
+
+Atualmente, estou estudando *desenvolvimento de sistermas* e explorando ferramentas como GitHub, VS Code e outras tecnologias modernas. 
+Acredito que a prática constante e a curiosidade são essenciais para evoluir como desenvolvedor.
